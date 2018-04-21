@@ -1,2 +1,3 @@
 # ws-schema
-WebSocket Server with full data schema
+
+Data Schema for WebSocket Server or Client
